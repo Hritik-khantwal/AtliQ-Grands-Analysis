@@ -19,7 +19,7 @@ The goal of this project is to perform a comprehensive analysis of the hotel dom
   - ● Analyzing revenue realized per hotel type.
   - ● Assessing revenue by booking platforms.
 ## Skills Learned:
-- Python Programming: Enhanced proficiency in Python for data analysis, cleaning, transformation, and visualization.
-- Data Viusualization: Utilized Matplotlib library to create charts and bars.
-- Pandas Fundamentals: Created various dataframes, used group by functions, concatenated and merged data, handled NA values, read CSV files, etc.
+- **Python Programming:** Enhanced proficiency in Python for data analysis, cleaning, transformation, and visualization.
+- **Data Viusualization:** Utilized Matplotlib library to create charts and bars.
+- **Pandas Fundamentals:** Created various dataframes, used group by functions, concatenated and merged data, handled NA values, read CSV files, etc.
 
