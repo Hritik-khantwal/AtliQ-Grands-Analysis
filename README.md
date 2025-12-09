@@ -10,11 +10,16 @@ The goal of this project is to perform a comprehensive analysis of the hotel dom
 
 - **3) Insights Generation:** Answering key questions:
 
-  - -Calculating average occupancy rate by room type.
-  - Calculating average occupancy rate per city.
-  - Identifying occupancy rate on weekdays and weekends.
-  - In the month of June, what is the occupancy for different cities?
-  - Analyzing revenue generated per city.
-  - Analyzing monthly revenue trends.
-  - Analyzing revenue realized per hotel type.
-  - Assessing revenue by booking platforms.
+  - ● Calculating average occupancy rate by room type.
+  - ● Calculating average occupancy rate per city.
+  - ● Identifying occupancy rate on weekdays and weekends.
+  - ● In the month of June, what is the occupancy for different cities?
+  - ● Analyzing revenue generated per city.
+  - ● Analyzing monthly revenue trends.
+  - ● Analyzing revenue realized per hotel type.
+  - ● Assessing revenue by booking platforms.
+## Skills Learned:
+- Python Programming: Enhanced proficiency in Python for data analysis, cleaning, transformation, and visualization.
+- Data Viusualization: Utilized Matplotlib library to create charts and bars.
+- Pandas Fundamentals: Created various dataframes, used group by functions, concatenated and merged data, handled NA values, read CSV files, etc.
+
